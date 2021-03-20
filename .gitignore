@@ -1,0 +1,10 @@
+*.zip
+front-end-web-app-html5-javascript-css/
+Thumbs.db
+
+### vscode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json

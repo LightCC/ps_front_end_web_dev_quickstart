@@ -1,0 +1,1 @@
+My Practice files from [PS front end web dev quickstart course at PluralSight.com](https://app.pluralsight.com/library/courses/front-end-web-app-html5-javascript-css/table-of-contents)
